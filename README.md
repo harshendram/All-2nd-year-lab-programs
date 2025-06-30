@@ -6,7 +6,7 @@ This repository contains **college Java programs** and **DAA (Design and Analysi
 
 ## ⚡ Quick Folder Downloads
 
-To download specific folders without cloning the entire repository, use the [**GitZip Extension**](https://chrome.google.com/webstore/detail/gitzip-downloader-for-gith/ffcbnafjhpdmioedhkighachlmklknoo).
+To download specific folders without cloning the entire repository, use the [**GitZip Extension**](https://chromewebstore.google.com/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn).
 
 After installing:  
 ✔️ Right-click any folder in the repo  
